@@ -29,7 +29,8 @@ import java.util.Scanner;
  * @author Charles Dorsey-Ward
  * @author Timothy Dovci
  * @author Samantha Cole
- * @version 3/15/17
+ * @version 10/6/2018
+ * @since 3/15/17
  */
 final class Game {
 
